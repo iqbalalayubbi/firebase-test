@@ -1,0 +1,17 @@
+{
+  "name": "firebase-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "iqbal",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "firebase": "^9.9.4",
+    "firebase-admin": "^11.0.1"
+  }
+}
